@@ -1,0 +1,49 @@
+body {
+  font-family: Tahoma, Verdana, sans-serif;
+  margin-left: 15px;
+}
+.button {
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+}
+a {
+  display: block;
+}
+
+.imgresize {
+  height: 200px;
+  box-sizing: border-box;
+  display: block;
+  padding: 10px;
+}
+
+.recipeimg {
+  display: inline-block;
+  box-sizing: border-box;
+  float: right;
+  vertical-align: top;
+}
+
+.tall {
+  width: 35%;
+  height: auto;
+}
+.wide {
+  height: auto;
+  width: 35%;
+}
+
+.content {
+  width: 63%;
+}
+
+.steps {
+  background-color: rgb(180, 204, 184);
+  padding: 10px;
+}
+
+.ingredients {
+  background-color: rgb(221, 202, 221);
+  padding: 10px;
+}
